@@ -1,0 +1,30 @@
+# Ignore the entire .idea folder, which contains project-specific settings
+.idea/
+
+# Exceptions for specific .idea files that might be shared (optional)
+# For example, if you want to share workspace settings or VCS settings:
+# !.idea/workspace.xml
+# !.idea/vcs.xml
+
+# Ignore compiled output directories
+target/
+out/
+build/
+
+# Ignore local history and caches
+.idea/caches/
+.idea/dataSources/
+.idea/dataSources.local/
+.idea/sqlDataSources.xml
+.idea/dataSources.ids
+
+# Ignore run/debug configurations if they are user-specific
+.idea/runConfigurations/
+
+# Ignore IDE-specific settings that should remain local
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/shelf/
+.idea/tasks/
+.idea/httpRequests/
+.idea/jsLibraryMappings.xml
